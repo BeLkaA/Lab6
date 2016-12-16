@@ -14,7 +14,7 @@
     
     "autoload":{
         "psr-4":{
-            "webroot\\":"baacore/"
+            "Lab6\\":"baacore/"
         }
     }
 }
